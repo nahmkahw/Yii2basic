@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # phpstorm project files
 .idea
 
@@ -25,3 +26,11 @@ composer.phar
 phpunit.phar
 # local phpunit config
 /phpunit.xml
+=======
+assets/*
+!assets/.gitignore
+protected/runtime/*
+!protected/runtime/.gitignore
+protected/data/*.db
+themes/classic/views/
+>>>>>>> 9f07ade08760601f98a9b37c46f7e60853148255
