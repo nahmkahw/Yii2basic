@@ -94,7 +94,11 @@ class SiteController extends Controller
         return $this->render('about');
     }
 
+<<<<<<< HEAD
     public function actionTest() {
+=======
+    public function actionCheck(){
+>>>>>>> develop
         
     }
 }
